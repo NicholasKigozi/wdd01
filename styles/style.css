@@ -1,3 +1,16 @@
+nav{
+    background-color: blueviolet;
+    display: block;
+padding: 20px;
+}
+nav a {
+    color:white ;
+    display: block;
+    padding:1rem ;
+}
+h1,h2{
+    color: blue;
+}
 main {
     max-width:  840px;
 }
